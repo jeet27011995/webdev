@@ -1,0 +1,19 @@
+.OrdersWrapper {
+  display: flex;
+}
+.FilterWrapper {
+  display: flex;
+  flex-direction: column;
+}
+.FilterOptions {
+  display: flex;
+
+  flex-direction: column;
+}
+.FilterCheckbox {
+  padding: 8px;
+}
+.OrderTable {
+  margin-left: 80px;
+  margin-top: 20px;
+}
